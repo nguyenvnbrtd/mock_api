@@ -1,0 +1,135 @@
+{
+  "status": 0,
+  "message": "Lấy data thành công",
+  "errorData": null,
+  "data": {
+    "planCode": "PlanCode01",
+    "status": -1,
+    "search": "none",
+    "pageNum": 1,
+    "pageSize": 20,
+    "isEndPage": false,
+    "data": [
+      {
+        "codeSupplies": "20000202",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 0,
+        "statusName": "Chưa cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000203",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 0,
+        "statusName": "Chưa cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "82",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000204",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 1,
+        "statusName": "Đang cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000205",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 3,
+        "statusName": "INF cập  nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "402",
+        "note": "note",
+        "partnerConfirm": "1",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000207",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 5,
+        "statusName": "FTQ cập  nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "350",
+        "note": "note",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000208",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 0,
+        "statusName": "Chưa cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000209",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 0,
+        "statusName": "Chưa cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "82",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000210",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 1,
+        "statusName": "Đang cập nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "partnerConfirm": "0",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000211",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 3,
+        "statusName": "INF cập  nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "402",
+        "note": "note",
+        "partnerConfirm": "1",
+        "infConfirm": "0",
+        "ftqConfirm": "0"
+      },
+      {
+        "codeSupplies": "20000212",
+        "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
+        "status": 5,
+        "statusName": "FTQ cập  nhật",
+        "quantityExport": "1000",
+        "quantityAcceptance": "350",
+        "note": "note",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      }
+    ]
+  }
+}
