@@ -1,0 +1,49 @@
+{
+  "status": 0,
+  "message": "Lấy data thành công",
+  "errorData": null,
+  "data": [
+    {
+      "name": "Chưa cập nhật",
+      "code": 0,
+      "index": 1,
+      "selected": true
+    },
+    {
+      "name": "Đã cập nhật",
+      "code": 8,
+      "index": 2,
+      "selected": false
+    },
+    {
+      "name": "Đối tác xác nhận",
+      "code": 2,
+      "index": 3,
+      "selected": false
+    },
+    {
+      "name": "INF xác nhận",
+      "code": 4,
+      "index": 4,
+      "selected": false
+    },
+    {
+      "name": "FTQ cập  nhật",
+      "code": 5,
+      "index": 5,
+      "selected": false
+    },
+    {
+      "name": "FTQ xác nhận",
+      "code": 6,
+      "index": 6,
+      "selected": false
+    },
+    {
+      "name": "Không thi công",
+      "code": 7,
+      "index": 7,
+      "selected": false
+    }
+  ]
+}
