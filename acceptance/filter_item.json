@@ -28,26 +28,26 @@
       "selected": false
     },
     {
+      "name": "INF cập  nhật",
+      "code": 3,
+      "index": 5,
+      "selected": false
+    },
+    {
       "name": "INF xác nhận",
       "code": 4,
-      "index": 5,
+      "index": 6,
       "selected": false
     },
     {
       "name": "FTQ cập  nhật",
       "code": 5,
-      "index": 6,
+      "index": 7,
       "selected": false
     },
     {
       "name": "FTQ xác nhận",
       "code": 6,
-      "index": 7,
-      "selected": false
-    },
-    {
-      "name": "Không thi công",
-      "code": 7,
       "index": 8,
       "selected": false
     }
