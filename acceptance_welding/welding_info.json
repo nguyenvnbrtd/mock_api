@@ -13,6 +13,7 @@
     "implementationStaff": "-",
     "supervisoryStaff": "-",
     "acceptanceStaff": "-",
+    "notConstruct": "0",
     "partnerConfirm": "0",
     "infConfirm": "0",
     "ftqConfirm": "0"
