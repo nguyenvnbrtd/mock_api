@@ -5,43 +5,43 @@
   "data": [
     {
       "id": "abc1",
-      "objName": "HCMIP999.001/MO"
+      "name": "HCMIP999.001/MO"
     },
     {
       "id": "abc2",
-      "objName": "HCMIP999.002/MO"
+      "name": "HCMIP999.002/MO"
     },
     {
       "id": "abc3",
-      "objName": "HCMIP999.003/MO"
+      "name": "HCMIP999.003/MO"
     },
     {
       "id": "abc4",
-      "objName": "HCMIP999.004/MO"
+      "name": "HCMIP999.004/MO"
     },
     {
       "id": "abc5",
-      "objName": "HCMIP999.005/MO"
+      "name": "HCMIP999.005/MO"
     },
     {
       "id": "abc6",
-      "objName": "HCMIP999.006/MO"
+      "name": "HCMIP999.006/MO"
     },
     {
       "id": "abc7",
-      "objName": "HCMIP999.007/MO"
+      "name": "HCMIP999.007/MO"
     },
     {
       "id": "abc8",
-      "objName": "HCMIP999.008/MO"
+      "name": "HCMIP999.008/MO"
     },
     {
       "id": "abc9",
-      "objName": "HCMIP999.009/MO"
+      "name": "HCMIP999.009/MO"
     },
     {
       "id": "abc10",
-      "objName": "HCMIP999.010/MO"
+      "name": "HCMIP999.010/MO"
     }
   ]
 }
