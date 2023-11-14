@@ -1,0 +1,135 @@
+{
+  "status": 0,
+  "message": "Lấy data thành công",
+  "errorData": null,
+  "data": {
+    "planCode": "PlanCode01",
+    "status": -1,
+    "search": "none",
+    "pageNum": 1,
+    "pageSize": 20,
+    "isEndPage": false,
+    "data": [
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "1",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      },
+      {
+        "weldingPosition": "HCMIP999.001/MO",
+        "status": 4,
+        "statusName": "INF xác nhận",
+        "quantityConstructed": "1000",
+        "quantityAcceptance": "102",
+        "note": "note",
+        "noConstruction": "0",
+        "partnerConfirm": "1",
+        "infConfirm": "1",
+        "ftqConfirm": "0"
+      }
+    ]
+  }
+}
