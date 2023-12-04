@@ -6,6 +6,7 @@
     "weldingPosition": "HCMIP999.001/MO",
     "status": 9,
     "statusName": "Đối tác cập nhật",
+	"statusReport": 2,
     "calculationUnit": "Chiếc",
     "quantityConstructed": "1000",
     "quantityAcceptance": "102",

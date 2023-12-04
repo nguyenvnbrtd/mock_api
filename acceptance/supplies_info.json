@@ -7,6 +7,7 @@
     "nameSupplies": "Cáp quang treo 24 sợi(Mét) - (Mới)",
     "status": 0,
     "statusName": "Chưa cập nhật",
+	"statusReport": 2,
     "calculationUnit": "Chiếc",
     "statusSupplies": "Mới",
     "quantityExport": "1000",
