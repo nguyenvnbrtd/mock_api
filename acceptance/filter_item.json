@@ -7,13 +7,13 @@
       "name": "Tất cả",
       "code": 0,
       "index": 1,
-      "selected": true
+      "selected": false
     },
     {
       "name": "Chưa cập nhật",
       "code": 1,
       "index": 2,
-      "selected": true
+      "selected": false
     },
     {
       "name": "Đối tác cập nhật",
@@ -25,7 +25,7 @@
       "name": "Đối tác xác nhận",
       "code": 3,
       "index": 4,
-      "selected": false
+      "selected": true
     },
     {
       "name": "INF cập  nhật",
