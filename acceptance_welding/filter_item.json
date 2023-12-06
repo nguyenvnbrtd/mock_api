@@ -5,43 +5,49 @@
   "data": [
     {
       "name": "Tất cả",
-      "code": -2,
+      "code": 0,
       "index": 1,
-      "selected": true
+      "selected": false
+    },
+    {
+      "name": "Chưa cập nhật",
+      "code": 1,
+      "index": 2,
+      "selected": false
     },
     {
       "name": "Đối tác cập nhật",
-      "code": 9,
+      "code": 2,
       "index": 3,
       "selected": false
     },
     {
       "name": "Đối tác xác nhận",
-      "code": 2,
+      "code": 3,
       "index": 4,
       "selected": false
     },
     {
       "name": "INF cập  nhật",
-      "code": 3,
+      "code": 4,
       "index": 5,
-      "selected": false
+      "selected": true
     },
     {
       "name": "INF xác nhận",
-      "code": 4,
+      "code": 5,
       "index": 6,
       "selected": false
     },
     {
       "name": "FTQ cập  nhật",
-      "code": 5,
+      "code": 6,
       "index": 7,
       "selected": false
     },
     {
       "name": "FTQ xác nhận",
-      "code": 6,
+      "code": 7,
       "index": 8,
       "selected": false
     }
